@@ -24,7 +24,7 @@ You can upload this site to CloudCannon to test live editing for yourself.
  ```html
  <script>
   import { onDestroy, onMount } from 'svelte';
-  import { onCloudCannonChanges, stopCloudCannonChanges } from 'cloudcannon@svelte-connector';
+  import { onCloudCannonChanges, stopCloudCannonChanges } from '@cloudcannon/svelte-connector';
 
   // pageDetails is passed from parent, or via SvelteKit load function
   export let pageDetails;
