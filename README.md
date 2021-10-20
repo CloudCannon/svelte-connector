@@ -1,5 +1,5 @@
 # CloudCannon Svelte Connector
-Give your editors a live visual editing experience by connecting your Svelte site to CloudCannon.
+Give your editors a live visual editing experience by connecting your Svelte site to [CloudCannon](https://cloudcannon.com).
 
 ## Installation
 ```bash
