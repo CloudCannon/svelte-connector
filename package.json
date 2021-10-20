@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/CloudCannon/svelte-connector.git"
   },
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "svelte",
     "sveltekit",
