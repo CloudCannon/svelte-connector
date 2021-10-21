@@ -32,4 +32,4 @@
 </svelte:head>
 
 <h1>{pageDetails.header}</h1>
-<p>{pageDetails.subtext}</p>
+<div>{@html pageDetails.subtext_html}</div>
