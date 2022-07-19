@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "A connector for live editing Svelte components in CloudCannon",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -28,6 +29,6 @@
   },
   "homepage": "https://github.com/CloudCannon/svelte-connector#readme",
   "dependencies": {
-    "@cloudcannon/visual-editor-connector": "^1.0.0"
+    "@cloudcannon/visual-editor-connector": "^1.0.1"
   }
 }
