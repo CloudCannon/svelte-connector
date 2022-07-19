@@ -1,6 +1,6 @@
 {
   "name": "@cloudcannon/svelte-connector",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A connector for live editing Svelte components in CloudCannon",
   "main": "index.js",
   "type": "module",
