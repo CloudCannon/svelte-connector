@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/CloudCannon/svelte-connector#readme",
   "dependencies": {
-    "@cloudcannon/visual-editor-connector": "^1.0.1"
+    "@cloudcannon/visual-editor-connector": "^1.0.2"
   }
 }
